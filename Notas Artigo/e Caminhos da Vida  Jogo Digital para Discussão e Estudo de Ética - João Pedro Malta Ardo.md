@@ -1,0 +1,23 @@
+Esse é um resumo da forma como o TCC do João foi estruturado, a fim de pegar referências sobre o que eu devo fazer.
+
+- Introdução
+	- Inicia dando um contexto geral sobre o que é ética
+	- Traz a importância da ética para o desenvolvimento humano
+	- Relaciona ética e educação
+		- a educação se baseia na ética para preparar estudantes para a sociedade
+		- a ética do docente reflete nas suas práticas pedagógicas
+	- inicia as apresentações de métodos diferenciados de ensino
+	- traz a gamificação como uma metodologia ativa
+	- finalmente introduz o conceito de jogos educativos
+	- amarrou todos os pontos trazendo a ideia de ética na educação por meio de jogos educativos
+	- finalizou as explicações teóricas e entrou no método
+	- explicou o funcionamento do jogo que o artigo se baseou
+	- trouxe os resultados positivos do teste piloto do jogo
+	- apresentou o projeto do artigo: uma versão digital do jogo de tabuleiro apresentado acima
+	- explicou o game design do jogo reforçando aspectos essenciais da educação ética
+	- a versão digital pode trazer um publico maior
+	- falou do gênero do jogo produzido, voltando a utilizar referencias externas
+	- explicou a ligação entre o genero e seu apelo educativo
+	- apresentou a forma como a pesquisa foi validada, sem apresentar resultados
+- fundamentação teórica
+	- 

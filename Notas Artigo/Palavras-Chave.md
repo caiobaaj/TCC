@@ -1,0 +1,3 @@
+- Conceitos Chave: Serious Games, Game-Based Learning (GBL), Educational Games, Gamification.
+- Foco do Problema Calculus I, Infinitesimal Calculus, STEM Education, Higher Education transition.
+- Método: Combat mechanics, Pedagogical-mechanical integration, Intrinsic integration in GBL.

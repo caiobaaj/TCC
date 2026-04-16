@@ -1,0 +1,1 @@
+fator psicológico e emocional 

@@ -1,0 +1,4 @@
+- Epistemologia do Cálculo Infinitesimal
+- Fundamentos axiomáticos no ensino de Cálculo
+- Conceptual understanding of calculus
+- Visualizing infinitesimal concepts

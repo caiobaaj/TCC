@@ -6,24 +6,28 @@
       {
         "id": "69d3b8c6f433ccbb",
         "type": "tabs",
+        "dimension": 34.98759305210918,
         "children": [
           {
-            "id": "ba6622abb9cbd1bc",
+            "id": "33eea4024d2da592",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Referências Bibliográficas/TCC_e_Caminhos_da_Vida.pdf"
+                "file": "0. Artigo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TCC_e_Caminhos_da_Vida"
+              "icon": "lucide-file",
+              "title": "0. Artigo"
             }
           }
         ]
       },
       {
-        "id": "8c810a2200a6587e",
+        "id": "1cd3bd2edcaad1f1",
         "type": "tabs",
+        "dimension": 65.01240694789082,
         "children": [
           {
             "id": "5e294c798f5e9436",
@@ -33,9 +37,49 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
-            }
+            },
+            "group": "4ae33bc190056ff6"
+          },
+          {
+            "id": "9feaec33c6c66f72",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "BASE TEÓRICA.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.6,
+                  "nodeSizeMultiplier": 0.879313929313929,
+                  "lineSizeMultiplier": 4.6485446985447,
+                  "collapse-forces": false,
+                  "centerStrength": 0.441787941787942,
+                  "repelStrength": 13.8253638253638,
+                  "linkStrength": 1,
+                  "linkDistance": 316,
+                  "scale": 0.2674061231916477,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de BASE TEÓRICA"
+            },
+            "group": "4ae33bc190056ff6"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "right": {
     "id": "3cef391f0b7d3937",
@@ -194,20 +238,39 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5e294c798f5e9436",
+  "active": "7579bc823855d7a1",
   "lastOpenFiles": [
-    "Referências Bibliográficas/TCC_e_Caminhos_da_Vida.pdf",
-    "Referências.md",
-    "TCC_e_Caminhos_da_Vida.pdf",
     "1. Introdução.md",
-    "Referências Bibliográficas",
-    "5. Conclusões.md",
-    "4. Resultados.md",
-    "3. Método.md",
     "2. Fundamentação Teórica.md",
-    "0. Artigo.md",
-    "crie um link.md",
-    "blabla.md",
-    "blablabla.md"
+    "Infos Técnicas Importantes.md",
+    "Transposição Didática.md",
+    "Links para Salvar.md",
+    "e Caminhos da Vida  Jogo Digital para Discussão e Estudo de Ética - João Pedro Malta Ardo.md",
+    "Frases de busca e o que devo justificar.md",
+    "Teoria dos Campos Conceituais.md",
+    "CONTEÚDO - Fundamentos e História do Cálculo.md",
+    "Visualização de Conceitos.md",
+    "Conceitos Infinitesimais.md",
+    "Jogos no Ensino Matemático.md",
+    "SOLUÇÃO - Jogos Educativos.md",
+    "Jogos Digitais.md",
+    "PROBLEMA - Dificuldades no Ensino.md",
+    "Transição Ensino Médio-Superior.md",
+    "Engajamento e Flow.md",
+    "MÉTODO - Mecânicas de Combate.md",
+    "Integração Orgânica.md",
+    "História da Matemática como Recurso Didático.md",
+    "Palavras-Chave.md",
+    "Bases de Dados Recomendadas.md",
+    "TCC_e_Caminhos_da_Vida.pdf",
+    "Referências Bibliográficas/Dificuldades no Ensino de Cálculo/Sem título",
+    "Referências Bibliográficas/Dificuldades no Ensino de Cálculo",
+    "Links p/Links para Salvar.md",
+    "Links p",
+    "Cálculo.md",
+    "Obstáculos na Abstração.md",
+    "Obstáculos Didáticos.md",
+    "TCC_e_Caminhos_da_Vida.pdf",
+    "Referências Bibliográficas"
   ]
 }

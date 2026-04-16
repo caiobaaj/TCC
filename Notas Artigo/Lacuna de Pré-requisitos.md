@@ -1,0 +1,1 @@
+Atraso em álgebra básica e funções que impedem o progresso
